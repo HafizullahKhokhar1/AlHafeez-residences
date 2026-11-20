@@ -15,3 +15,6 @@ The enquiry form opens the visitor's email application with the completed messag
 ## Build
 
 Run `python build\generate.py` from this directory to generate a site in the `alhafeez-website` output folder.
+
+## Visit Website
+https://hafizullahkhokhar1.github.io/AlHafeez-residences/
