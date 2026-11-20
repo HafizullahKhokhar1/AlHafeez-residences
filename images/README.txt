@@ -1,0 +1,2 @@
+Drop your own renders/photos here. Easiest: save your image with the same name but a new extension (e.g. aaranya-hero.webp), then in your code editor use Find and Replace across the project: aaranya-hero.jpeg -> aaranya-hero.webp.
+Recommended: hero 1920px wide, others 1200px wide, .webp or .jpg under 300 KB each.
